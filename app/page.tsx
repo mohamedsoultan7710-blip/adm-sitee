@@ -1,9 +1,9 @@
-import Navbar from "@/components/Navbar";
-import Hero from "@/components/Hero";
-import Presentation from "@/components/Presentation";
-import BureauExecutif from "@/components/BureauExecutif";
-import Footer from "@/components/Footer";
-import Chatbot from "@/components/Chatbot";
+import Navbar from "@/components/navbar";
+import Hero from "@/components/hero";
+import Presentation from "@/components/presentation";
+import BureauExecutif from "@/components/bureauexecutif";
+import Footer from "@/components/footer";
+import Chatbot from "@/components/chatbot";
 
 export default function Page() {
   return (
